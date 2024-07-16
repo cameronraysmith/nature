@@ -11,4 +11,7 @@
 /*.bst
 /*.cls
 template.*
-!template.{qmd,pdf}
+!template.docx
+!template.html
+!template.pdf
+!template.qmd
